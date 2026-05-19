@@ -24,12 +24,6 @@ Previous experience includes ERP systems at TOTVS, international projects at dti
 * dti digital — International and enterprise projects
 * Nelogica — Desktop applications and enterprise support solutions
 
-## Featured Projects
-
-* Add your main projects here
-* Prefer quality over quantity
-* Focus on architecture and real-world solutions
-
 ## Contact
 
 * LinkedIn: linkedin.com/in/andre-carraro
